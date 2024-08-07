@@ -1,0 +1,1 @@
+curl https://api.tiingo.com/tiingo/daily/msft/prices?token=684a52edff94ba7fabb8a57a51c98e9aa9eee72f
